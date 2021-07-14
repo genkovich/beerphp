@@ -1,0 +1,15 @@
+{
+    "name": "beerphp/examples",
+    "autoload": {
+        "psr-4": {
+            "Beerphp\\Examples\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "genkovich",
+            "email": "genkovi4@gmail.com"
+        }
+    ],
+    "require": {}
+}
